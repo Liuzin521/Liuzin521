@@ -2,7 +2,7 @@
 - 👀 I’m interested in chatting with other guys
 - 🌱 I’m currently learning python and c
 - 💞️ I’m looking to collaborate on some interesting projects
-- 📫 You can email me-----1044015550@qq.com
+- 📫 You can email me.1044015550@qq.com
 
 <!---
 Liuzin521/Liuzin521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
