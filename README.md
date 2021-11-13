@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Liuzin521
+- 👋 Hi, I’m Liuzin
 - 👀 I’m interested in chatting with other guys
 - 🌱 I’m currently learning python and c
 - 💞️ I’m looking to collaborate on some interesting projects
