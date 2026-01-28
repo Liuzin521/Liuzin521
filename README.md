@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Liuzin
-- 👀 I’m interested in chatting with other guys
-- 🌱 I’m currently learning cpp and python
-- 💻 I‘m doing Efficient LLM 
-- 💞️ I’m looking to collaborate on some interesting projects
-- 📫 You can email zenliu778@gmail.com to contact me
+### 👋 Hi, I'm Zien
+
+**I build practical ML systems and care about speed, quality, and clean engineering.**
+
+- 🎯 Aspiring Algorithm / ML Engineer (goal: build scalable, reliable ML systems)
+- 🔭 Currently working on Efficient LLM training/inference with my lab/team
+- 🛠️ Skills: Python · PyTorch · Linux · (learning) C++ · profiling & optimization
+- 📌 Interests: model efficiency, distributed training, GPU performance
+- 🚀 Building my project portfolio here — more repos coming soon
+- 📫 Contact: zenliu778@gmail.com
 
 
 <div style="display:flex; gap:16px; justify-content:center; align-items:center; flex-wrap:wrap;">
