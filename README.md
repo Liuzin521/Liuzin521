@@ -12,9 +12,9 @@
 
 <div style="display:flex; gap:16px; justify-content:center; align-items:center; flex-wrap:wrap;">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Liuzin521&show_icons=true&rank_icon=github&theme=one_dark_pro&hide_border=true" />
+       src="https://github-readme-stats-wheat-three-80.vercel.app/api?username=Liuzin521&show_icons=true&rank_icon=github&theme=one_dark_pro&hide_border=true" />
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liuzin521&layout=compact&langs_count=6&theme=one_dark_pro&hide_border=true" />
+       src="https://github-readme-stats-wheat-three-80.vercel.app/api/top-langs/?username=Liuzin521&layout=compact&langs_count=6&theme=one_dark_pro&hide_border=true" />
 </div>
 
 
